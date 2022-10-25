@@ -1,4 +1,4 @@
-baseurl = "https://rkblake.github.io/blog"
+baseurl = "https://rkblake.github.io"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 paginate = 5
