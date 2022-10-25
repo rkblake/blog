@@ -2,6 +2,7 @@ baseurl = "https://rkblake.github.io"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 paginate = 5
+publishDir = "docs"
 
 [params]
   contentTypeName = "posts"
