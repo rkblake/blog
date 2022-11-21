@@ -1,7 +1,7 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
+date = "2022-10-1"
+author = "RKBlake"
 +++
 
 # Hi there
